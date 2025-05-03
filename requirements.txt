@@ -1,5 +1,5 @@
 fpstimer
-playsound
+playsound==1.2.2
 cursor
 pydub
 opencv-python
