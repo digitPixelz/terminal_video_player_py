@@ -21,6 +21,6 @@ setup(
     ],
     entry_points = '''
         [console_scripts]
-        tvp=terminal_video_player_py:main
+        tvp=terminal_video_player:main
     '''
 )
